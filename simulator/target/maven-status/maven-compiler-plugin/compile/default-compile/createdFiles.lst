@@ -1,0 +1,10 @@
+blog/braindose/demo/debezium/camel/simulator/Order.class
+blog/braindose/demo/debezium/camel/simulator/DBOperations.class
+blog/braindose/demo/debezium/camel/simulator/CustomerOrderKey.class
+blog/braindose/GreetingResource.class
+META-INF/panache-archive.marker
+blog/braindose/demo/debezium/camel/simulator/Customer.class
+blog/braindose/demo/debezium/camel/simulator/DBSimulator.class
+blog/braindose/demo/debezium/camel/simulator/Sku.class
+blog/braindose/demo/debezium/camel/simulator/CustomerOrder.class
+blog/braindose/demo/debezium/camel/simulator/TxnId.class
